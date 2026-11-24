@@ -49,3 +49,7 @@ For cloud-based heading hierarchy tests:
 ## New Zealand Technical Enquiries
 
 For consultation aligned with NZ Government Web Accessibility Standard and W3C WCAG, get in touch with **TAVARDT New Zealand**.
+
+***
+
+© 2026 TAVARDT. All rights reserved.
