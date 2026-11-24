@@ -5,7 +5,7 @@
 
 Independent verification of heading progressions, H1 integrity, and accessibility compliance.
 
-Developed and maintained by the digital accessibility team at **TAVARDT New Zealand**.
+Developed and maintained by the digital accessibility team at **TAVARDT**.
 
 ***
 
@@ -42,13 +42,13 @@ python heading_hierarchy_validator.py https://enterprise.co.nz -json
 For cloud-based heading hierarchy tests:
 
 * **Official Heading Tags Checker**
-* **TAVARDT New Zealand Portal**
+* **TAVARDT Portal**
 
 ***
 
 ## New Zealand Technical Enquiries
 
-For consultation aligned with NZ Government Web Accessibility Standard and W3C WCAG, get in touch with **TAVARDT New Zealand**.
+For consultation aligned with NZ Government Web Accessibility Standard and W3C WCAG, get in touch with **TAVARDT**.
 
 ***
 
