@@ -6,8 +6,6 @@
 
 Independent verification of heading progressions, H1 integrity, and accessibility compliance.
 
-Developed and maintained by the digital accessibility team at **TAVARDT**.
-
 ***
 
 ## Heading Structure Auditing Highlights
@@ -38,15 +36,6 @@ python heading_hierarchy_validator.py https://enterprise.co.nz -json
 
 ***
 
-## New Zealand Web Diagnostic Suite
-
-For cloud-based heading hierarchy tests:
-
-* **Official Heading Tags Checker**
-* **TAVARDT Portal**
-
-***
-
 ## New Zealand Technical Enquiries
 
 For consultation aligned with NZ Government Web Accessibility Standard and W3C WCAG, get in touch with **TAVARDT**.
@@ -62,7 +51,7 @@ For consultation aligned with NZ Government Web Accessibility Standard and W3C W
 ***
 
 ### License
-Released under the MIT License. See [LICENSE](LICENSE) for full details.
+Released under the MIT License.
 
 ***
 
